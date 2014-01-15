@@ -1,7 +1,7 @@
 Budget Planning & Financial Progress App
 -----
 
-1) As a user, I want to input my planned income and expense categories for a time period (e.g. monthly)
+1) As a user, I want to input my planned income and expense categories for a time period (e.g. monthly) \n
   a) As a user, I want the app to automatically calculate tax rates --> net income
 2) As a user, I want to set concrete long-term financial goals (e.g. save $x amt by Y date) for the app to help me meet
 3) As a user, I want to automatically upload my actual spending patterns and be able to compare it to my budget so that I can see if I'm on over- or under-spending in each expense category
