@@ -1,5 +1,6 @@
 Budget Planning & Financial Progress App
 -----
+Domain Model: https://docs.google.com/spreadsheet/ccc?key=0Alkcj-l6QSfQdDhPaUtLZUs2MS04anpFWWh1MnpfYVE&usp=sharing
 
 1) As a user, I want to input my planned income and expense categories for a time period (e.g. monthly)
   a) As a user, I want the app to automatically calculate tax rates --> net income
